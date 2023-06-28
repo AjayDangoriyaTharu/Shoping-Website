@@ -1,0 +1,133 @@
+
+.footer {
+    position: sticky;
+    bottom: 0;
+    margin-bottom: 65px;
+    height:147px;
+    width: 100%;
+    padding: 20px 10%;
+    background: rgba(6, 255, 60, 0.219);
+    display:flex;
+    justify-content: space-between;
+    }
+    .footer1{
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        padding: 20px 10%;
+        background: rgba(189, 19, 146, 0.219);
+        display:flex;
+        justify-content: space-between;
+    }
+    .footer1 img{
+        height: 25px;
+        width: 400px;
+    }
+    .about {
+        display:table-column;
+        width: 300px;
+        text-align:left;
+        justify-content: center;
+        align-content: center;
+    }
+    
+    .about h3{
+        color: #3cf;
+    } 
+    .about a{
+        color: #fff;
+        text-decoration: none;
+    }
+    
+    .help {
+        display:table-column;
+        width: 300px;
+        text-align:left;
+        justify-content: center;
+        align-content: center;
+    }
+    
+    .help h3{
+        color: #3cf;
+    } 
+    .help a{
+        color: #fff;
+        text-decoration: none;
+    }
+    
+    .policy {
+        display:table-column;
+        width: 350px;
+        text-align:left;
+        justify-content: center;
+        align-content: center;
+    }
+    
+    .policy h3{
+        color: #3cf;
+    } 
+    .policy a{
+        color: #fff;
+        text-decoration: none;
+    }
+    
+    .social {
+        display:table-column;
+        width: 300px;
+        text-align:left;
+        justify-content: center;
+        align-content: center;
+    }
+    
+    .social h3{
+        color: #3cf;
+    } 
+    .social a{
+        color: #fff;
+        text-decoration: none;
+    }
+    .mail {
+        display:table-column;
+        width: 550px;
+        text-align:left;
+        justify-content: center;
+        align-content: center;
+    }
+    
+    .mail h3{
+        color: #3cf;
+    } 
+    .mail p{
+        color: #fff;
+        text-decoration: none;
+    }
+    
+    .register {
+        display:table-column;
+        width: 600px;
+        text-align:left;
+        justify-content: center;
+        align-content: center;
+    }
+    
+    .register h3{
+        color: #3cf;
+    } 
+    .register p{
+        color: #fff;
+        text-decoration: none;
+    }
+    
+    .footer1 a{
+        float: left;
+        background:transparent;
+        color:white;
+        font-size: 17px;
+        font-weight: 200;
+        text-decoration: none;
+        justify-content: center;
+        align-content: center;
+        cursor: pointer;
+
+    }
