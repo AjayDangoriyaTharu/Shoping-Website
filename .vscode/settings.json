@@ -1,0 +1,6 @@
+{
+    "git.confirmEmptyCommits": true,
+    "git.confirmSync": true,
+    "git.confirmNoVerifyCommit": true,
+    "git.decorations.enabled": false
+}
